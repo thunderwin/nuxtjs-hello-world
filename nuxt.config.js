@@ -1,9 +1,8 @@
 
 
 
-import { defineNuxtConfig } from '@nuxt/bridge'
 
-export default defineNuxtConfig({
+export default {
   bridge: false,
   // Your existing configuration
   server: {
@@ -17,4 +16,4 @@ export default defineNuxtConfig({
 
   }
 
-})
+}
