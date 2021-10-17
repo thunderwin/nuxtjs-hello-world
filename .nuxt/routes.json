@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/nathan/currentWorking/Gudao-platform-api-nuxt-strapi/compise-nuxtjs-hello-world/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_d824bb34"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nathan/currentWorking/Gudao-platform-api-nuxt-strapi/compise-nuxtjs-hello-world/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_98b505aa"
+  }
+]
