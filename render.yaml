@@ -5,3 +5,10 @@ services:
   plan: starter
   buildCommand: yarn; yarn build
   startCommand: yarn start
+  
+  envVars:
+    - key: NODE_VERSION
+      value: 14.18.0
+    - key: NODE_ENV
+      value: production
+    
